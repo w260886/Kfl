@@ -1,6 +1,7 @@
 
 body{
-  margin:80px 0 80px 0
+  margin:80px 0 80px 0;
+
 }
 
 .start{
@@ -14,7 +15,24 @@ body{
   transform: translate(-50%, -50%);
 
 }
+.btn-bx{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
 
+}
+.bg-a{
+  background: url(../img/8.png);
+
+}
+.kf-hr{
+  background: #d9d4d0;
+  height:2px;
+}
+.img-xx{
+  display: block;
+  max-width: 50%;
+  height: auto;
+}
 .navbar-footer-menu{
   list-style: none;
   margin:0;
