@@ -1,6 +1,6 @@
 
 body{
-  margin:80px 0 80px 0;
+  margin:50px 0 80px 0;
 
 }
 
@@ -16,17 +16,31 @@ body{
 
 }
 .btn-bx{
-  margin-top: 5rem;
-  margin-bottom: 5rem;
+  margin-top: 7rem;
+  margin-bottom: 7rem;
 
+}
+.btn-clea{
+  background: #ffffff;
+  border:3px solid #e4393c;
+  color:#e4393c;
+}
+.btn-clea:hover{
+  background: #ffffff;
+  border:3px solid #f0ad4e;
+  color:#f0ad4e;
 }
 .bg-a{
   background: url(../img/8.png);
 
 }
+.kf-br{
+  margin-top:;
+}
 .kf-hr{
   background: #d9d4d0;
   height:2px;
+  margin-bottom:5rem;
 }
 .img-xx{
   display: block;

@@ -20,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="kaifanla.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="kaifanla.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kaifanla.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="261">
+              <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -33,50 +33,32 @@
       <file leaf-file-name="start.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tpl/start.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="500">
+              <caret line="70" column="122" lean-forward="false" selection-start-line="70" selection-start-column="114" selection-end-line="70" selection-end-column="122" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="e#3032#3040#0" expanded="true" />
+                <element signature="e#3161#3169#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kaifanla.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="kaifanla.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/kaifanla.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="123">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <file leaf-file-name="order.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tpl/order.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="1126" column="1" lean-forward="true" selection-start-line="1126" selection-start-column="1" selection-end-line="1126" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tpl/include/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tpl/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="50" />
+            <state relative-caret-position="87">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -107,7 +89,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tpl/detail.html" />
-        <option value="$PROJECT_DIR$/tpl/order.html" />
         <option value="$PROJECT_DIR$/js/kaifanla.js" />
         <option value="$PROJECT_DIR$/tpl/myorder.html" />
         <option value="$PROJECT_DIR$/data/dish_getbyid.php" />
@@ -123,6 +104,7 @@
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/tpl/start.html" />
         <option value="$PROJECT_DIR$/css/kaifanla.css" />
+        <option value="$PROJECT_DIR$/tpl/order.html" />
       </list>
     </option>
   </component>
@@ -134,8 +116,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="791" />
-    <option name="width" value="1128" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -299,15 +281,16 @@
       <workItem from="1488270755655" duration="395000" />
       <workItem from="1488271163530" duration="16000" />
       <workItem from="1488271186866" duration="648000" />
-      <workItem from="1488372115899" duration="12909000" />
+      <workItem from="1488372115899" duration="13497000" />
+      <workItem from="1488432819064" duration="4814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26651000" />
+    <option name="totallyTimeSpent" value="32053000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="791" y="0" width="1128" height="1047" extended-state="1" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -631,17 +614,17 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tpl/order.html">
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1421">
-          <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tpl/detail.html">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        <state relative-caret-position="29">
+          <caret line="1126" column="1" lean-forward="false" selection-start-line="1126" selection-start-column="1" selection-end-line="1126" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -662,46 +645,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/tpl/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="1126" column="1" lean-forward="true" selection-start-line="1126" selection-start-column="1" selection-end-line="1126" selection-end-column="1" />
+        <state relative-caret-position="522">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kaifanla.html">
+    <entry file="file://$PROJECT_DIR$/tpl/order.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="87">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/kaifanla.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tpl/start.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="500">
+          <caret line="70" column="122" lean-forward="false" selection-start-line="70" selection-start-column="114" selection-end-line="70" selection-end-column="122" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#3032#3040#0" expanded="true" />
+            <element signature="e#3161#3169#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/kaifanla.css">
+    <entry file="file://$PROJECT_DIR$/kaifanla.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="261">
+          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
           <folding />
         </state>
       </provider>
